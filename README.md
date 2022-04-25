@@ -1,4 +1,4 @@
-#IMPORTANT#
+# IMPORTANT
 
 Right now, the data from this project is used in the international evaluation forum REST-MEX 2022. You can access it at this link. https://sites.google.com/cicese.edu.mx/rest-mex-2022/registration
 
