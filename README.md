@@ -11,7 +11,7 @@ The semaphore prediction consists of determining the Mexican Epidemiological Sem
 
 # Rest-mex 2022: Recommendation System for Text Mexican Tourism
 #  Semaphore Covid Trainig Corpus
--*- coding: utf-8 -*-
+
 
 ## Spanish (Español)
 El conjunto de datos se encuentra completamente en la carpeta training_news
